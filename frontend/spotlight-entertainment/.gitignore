@@ -1,0 +1,19 @@
+# Java / Gradle
+.gradle/
+build/
+*.jar
+*.class
+
+# Node
+node_modules/
+dist/
+build/
+
+# IntelliJ / JetBrains
+.idea/
+*.iml
+
+# System
+.DS_Store
+Thumbs.db
+
